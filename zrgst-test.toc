@@ -4,4 +4,4 @@
 ## Version: 0.1
 ## Author: zrgst
 
-ZrgstStats.lua
+zrgst-test.lua
